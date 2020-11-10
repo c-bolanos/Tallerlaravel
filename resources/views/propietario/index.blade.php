@@ -20,7 +20,7 @@
 					<thead>
 						<th>Id</th>
 						<th>Documento Identidad</th>
-						<th>Primer Nombre</th>
+						<th>Primer Nombre- Cambio</th>
 						<th>Segundo Nombre</th>
 						<th>Primer Apellido</th>
 						<th>Segundo Apellido</th>
